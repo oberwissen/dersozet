@@ -32,3 +32,15 @@
 - Yazarlar gerçeğe uygun çevre betimlemeri yapmıştır
 - Dil ve üslup olaya ve olayın kahramanının kişiliğine uygun olarak kullanılır
 - Natüralist romanlarda bilime ve araştırmaya daha çok önem verilir
+
+# Bu dönemde yazılan bazı romanlar
+Halit Ziya Uşaklıgil: Aşk-ı Memnu, Mai ve Siyah, Kırık Hayatlar, Nemide.
+
+Mehmet Rauf: Eylül, Bir Aşkın Tarihi, Ferdâ-yı Gâram.
+
+Hüseyin Cahit Yalçın: Nadide, Hayal İçinde.
+
+Ahmet Hikmet Müftüoğlu: Gönül Hanım.
+
+Safveti Ziya: Salon Köşelerinde.
+
