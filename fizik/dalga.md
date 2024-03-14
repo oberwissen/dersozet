@@ -10,7 +10,10 @@ Her dalga bir ortamda yayılır deniz dalgaları için ortam su iken ses dalgala
 
 Yayılmak için bir ortama ihtiyaç duyan dalgalara mekanik dalga denir
 
-Tam tersi yayılmak için herhangi bir ortama ihtiyaç duymayan üstün [ aryan ( şaka )] dalgalara elektromanyetik dalgalar denir.
+Tam tersi yayılmak için herhangi bir ortama ihtiyaç duymayan dalgalara elektromanyetik dalgalar denir.
 
-Ayrıca bu elektromanyetik dalgalar 2. Dünya savaşında Nazi SS birimi tarafından radyo dalgalarını engellemek ve onları filtrelemek için kullanıldı bunun sayesinde hükümet karşıtı radyo yayınları sansürlenebildi. İlk jammer ( sinyal karıştırıcı ) ın çıkış hikayesi böyledir.
 
+## Kültür
+2. Dünya savaşında Nazi Almanyası hükümet karşıtı radyo yayınlarını sansürlemek için daha güçlü elektromanyetik dalgalar yayarak yayınları engelleyebildi
+
+Böylece ilk jammer ( sinyal karıştırıcı ) böyle ortaya çıktı 
